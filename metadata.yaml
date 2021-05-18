@@ -1,11 +1,16 @@
 _repo: Histoire-des-rats-pour-servir-a-l-histoire-universelle_65301
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65301-h/images/cover.jpg
 creator:
   author:
     agent_name: Sigrais, Claude Guillaume Bourdon de
     gutenberg_agent_id: '53279'
     url: http://www.gutenberg.org/2009/agents/53279
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65301#Histoire-des-rats-pour-servir-a-l-histoire-universelle
 gutenberg_issued: '2021-05-10'
 gutenberg_type: Text
 identifiers:
